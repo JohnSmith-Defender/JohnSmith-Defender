@@ -1,20 +1,22 @@
-### Hi there 👋
+### Blockchain & Game Engineer
 
-<!--
-**XINCGer/XINCGer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a experienced Blockchain & Game Engineer and I like to work for start-ups.
 
-Here are some ideas to get you started:
+If you want to start your blockchain company, I can help you!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* * *
+
+<!--insthync-->
+
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=johnsmith-defender&column=8&theme=juicyfresh&no-bg=true&no-frame=true"/>
+
+* * *
+
 <div>
-  ![johnsmith github stats](https://github-readme-stats.vercel.app/api?username=johnsmith0031&show_icons=true&bg_color=30,48C9B0,904e95&title_color=fff&text_color=fff)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insthync&layout=compact" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=johnsmith0031&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnsmith-defender&layout=compact" />
 </div>
+
+* * *
+
+<img src="http://github-readme-streak-stats.herokuapp.com?user=johnsmith-defender&theme=default&date_format=M%20j%5B%2C%20Y%5D" />
