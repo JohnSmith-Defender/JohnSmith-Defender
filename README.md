@@ -8,7 +8,7 @@ If you want to start your blockchain company, I can help you!
 
 <!--insthync-->
 
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=insthyncr&column=8&theme=juicyfresh&no-bg=true&no-frame=true"/>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=insthync&column=8&theme=juicyfresh&no-bg=true&no-frame=true"/>
 
 * * *
 
